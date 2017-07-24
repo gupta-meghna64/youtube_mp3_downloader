@@ -31,7 +31,7 @@ Now, first install requests:
 <br>
 Install BeautifulSoup
 <br>
-`pip instll beautifulsoup4`
+`pip install beautifulsoup4`
 <br>
 Finally install youtube-dl
 <br>
